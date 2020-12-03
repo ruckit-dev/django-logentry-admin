@@ -19,7 +19,7 @@ setup(
         'logentry_admin': ['templates/admin/admin/logentry/change_form.html']
     },
     license='ISC',
-    url='https://github.com/yprez/django-logentry-admin',
+    url='https://github.com/ruckit-dev/django-logentry-admin',
     description='Show all LogEntry objects in the Django admin site.',
     long_description='\n\n'.join([readme, changelog]),
     install_requires=[
@@ -35,6 +35,9 @@ setup(
         'Framework :: Django :: 1.10',
         'Framework :: Django :: 1.11',
         'Framework :: Django :: 2.0',
+        'Framework :: Django :: 2.1',
+        'Framework :: Django :: 2.2',
+        'Framework :: Django :: 3.0',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: ISC License (ISCL)',
         'Natural Language :: English',
