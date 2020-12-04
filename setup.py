@@ -10,7 +10,7 @@ with open('CHANGELOG.rst') as f:
 
 
 setup(
-    name='django-logentry-admin',
+    name='logentry_admin',
     author='Yuri Prezument',
     author_email='y@yprez.com',
     version='1.0.3',
